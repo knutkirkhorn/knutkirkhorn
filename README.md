@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="275" src="https://github.com/Knutakir/Knutakir/blob/master/cats.gif" alt="computer-cat">
+	<img width="275" src="https://github.com/Knutakir/Knutakir/blob/main/cats.gif" alt="computer-cat">
 	<br>
 </h1>
 
