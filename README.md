@@ -1,11 +1,11 @@
 <h1 align="center">
 	<br>
-	<img width="275" src="https://github.com/Knutakir/Knutakir/blob/main/cats.gif" alt="computer-cat">
+	<img width="275" src="https://github.com/knutkirkhorn/knutkirkhorn/blob/main/cats.gif" alt="computer-cat">
 	<br>
 </h1>
 
 <!--
-**Knutakir/Knutakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**knutkirkhorn/knutkirkhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
