@@ -1,8 +1,8 @@
-<h1 align="center">
+<div align="center">
 	<br>
 	<img width="275" src="https://github.com/knutkirkhorn/knutkirkhorn/blob/main/cats.gif" alt="computer-cat">
 	<br>
-</h1>
+</div>
 
 <!--
 **knutkirkhorn/knutkirkhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
